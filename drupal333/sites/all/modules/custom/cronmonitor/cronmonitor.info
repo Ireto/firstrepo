@@ -1,0 +1,6 @@
+name = "cronmonitor"
+description = "cron monitor"
+version = VERSION
+core = 7.x
+version = 7.x-1.0
+configure = admin/config/cronmonitor

@@ -1,0 +1,5 @@
+name = Import Staff
+description = Learning about the menu system.
+package = Pro Drupal Development
+core = 7.x
+files[] = importstaff.module
