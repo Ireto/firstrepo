@@ -78,7 +78,7 @@
                 <div style="float:left; padding:0 30px 0 0;">
                 <img class="masked" src="<?php print base_path() . drupal_get_path('theme', 'corporateclean') ;?>/mockup/slide-1.jpg"/>
                 </div>
-                <h2>Sample product name</h2>
+                <h2>Sample product namesssssssssss</h2>
                 <strong>General</strong><br/>
                 <em>Client name</em><br/>
                 <br/>
@@ -119,7 +119,7 @@
             	<div class="grid_12">
                 
                 <!--slider-item content-->
-                <h2>Sample product name</h2>
+                <h2>Sample product namezzzzzzzzzzzz</h2>
                 <strong>General</strong><br/>
                 <em>Client name</em><br/>
                 <br/>
