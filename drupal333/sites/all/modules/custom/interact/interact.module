@@ -101,5 +101,7 @@ function interact_library() {
  * Implements hook_library_alter().
  */
 function interact_library_alter(&$libraries, $module) {
+
+ // dsm($libraries);
   return;
 }
